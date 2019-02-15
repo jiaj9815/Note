@@ -1,4 +1,7 @@
 # 视觉SLAM整理
+
+@jiaj9815 2019/02/15
+
 我们使用的相机是realsense D435，为RGBD相机  
 一个方案汇总参考：[开源slam方案汇总](https://blog.csdn.net/lwx309025167/article/details/80257549)
 
